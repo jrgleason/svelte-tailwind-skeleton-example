@@ -3,8 +3,14 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
 
   theme: {
-    extend: {}
+    extend: {
+      backgroundColor: {
+        'custom-green': '#00FF00',
+      },
+    }
   },
 
-  plugins: []
+  plugins: [
+
+  ]
 };
