@@ -104,3 +104,5 @@ dist
 
 .idea
 *.iml
+
+.svelte-kit
